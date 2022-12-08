@@ -1,0 +1,16 @@
+<meta>
+	<info author="Seyer y Zkigh" type="script" />
+	<script src="logo.lua" type="client" />
+	<script src="server.lua" type="server" />
+	<file src="txd/credicoop.txd"/>
+	<file src="txd/milos.txd"/>
+	<file src="txd/kfc.txd"/>
+	<file src="txd/dia.txd"/>
+	<file src="txd/bandera.txd"/>
+	<file src="txd/nochup.txd"/>
+	<file src="txd/infinia.txd"/>
+	<file src="txd/ypf.txd"/>
+	<file src="txd/carteles.txd"/>
+	<file src="txd/carteles_banco.txd"/>
+	<file src="dff/comisaria.dff"/>
+</meta>

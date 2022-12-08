@@ -1,0 +1,10 @@
+<meta>
+	<info author="Seyer" description="Ty lil_Toady for fpsC"type="script" />
+	<script src="[SZTeleports]/teleports.lua" type="server" />
+	<script src="[SZCommands]/commands.lua" type="server" />
+	<script src="[SZFPS]/fpsS.lua" type="server" />
+	<script src="[SZFPS]/fpsC.lua" type="client" />
+	<script src="[SZAdmin]/client.lua" type="client" />
+	<script src="[SZAdmin]/server.lua" type="server" />
+	<script src="[SZTab]/teams.lua" type="server" />
+</meta>
